@@ -1,1 +1,1 @@
-# SandwichPresident.github.io
+# IGME 470 Blog
